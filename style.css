@@ -1,0 +1,25 @@
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	font-size: 2.5rem;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 2rem;
+	margin-bottom: 10px;
+}
+
+.serie {
+	margin-bottom: 20px;
+}
+
+ul {
+	margin: 0;
+	padding-left: 20px;
+}
+
