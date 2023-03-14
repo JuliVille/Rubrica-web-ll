@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 2.5rem;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 2rem;
+	margin-bottom: 10px;
+}
+
+.serie {
+	margin-bottom: 20px;
+}
+
+p {
+	margin-top: 0;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li::before {
+	content: "•";
+	margin-right: 5px;
+	padding-left: 30px;
+}
+
+li {
+	margin-bottom: 5px;
+}
